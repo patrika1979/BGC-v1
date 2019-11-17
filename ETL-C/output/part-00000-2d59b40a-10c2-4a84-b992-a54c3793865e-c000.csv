@@ -1,0 +1,101 @@
+Rank_id	Movie_name	averageRating	numVotes	averageNumberofVotes	primaryName	category
+1	The Shawshank Redemption	9.3	2159001	6651.818478569559	Richard Francis-Bruce	editor
+1	The Shawshank Redemption	9.3	2159001	6651.818478569559	Tim Robbins	actor
+1	The Shawshank Redemption	9.3	2159001	6651.818478569559	Thomas Newman	composer
+1	The Shawshank Redemption	9.3	2159001	6651.818478569559	Stephen King	writer
+1	The Shawshank Redemption	9.3	2159001	6651.818478569559	Bob Gunton	actor
+1	The Shawshank Redemption	9.3	2159001	6651.818478569559	Niki Marvin	producer
+1	The Shawshank Redemption	9.3	2159001	6651.818478569559	Frank Darabont	director
+1	The Shawshank Redemption	9.3	2159001	6651.818478569559	William Sadler	actor
+1	The Shawshank Redemption	9.3	2159001	6651.818478569559	Roger Deakins	cinematographer
+1	The Shawshank Redemption	9.3	2159001	6651.818478569559	Morgan Freeman	actor
+3	Inception	8.8	1892286	5516.632398156121	Hans Zimmer	composer
+3	Inception	8.8	1892286	5516.632398156121	Christopher Nolan	director
+3	Inception	8.8	1892286	5516.632398156121	Ken Watanabe	actor
+3	Inception	8.8	1892286	5516.632398156121	Guy Hendrix Dyas	production_designer
+3	Inception	8.8	1892286	5516.632398156121	Wally Pfister	cinematographer
+3	Inception	8.8	1892286	5516.632398156121	Lee Smith	editor
+3	Inception	8.8	1892286	5516.632398156121	Joseph Gordon-Levitt	actor
+3	Inception	8.8	1892286	5516.632398156121	Ellen Page	actress
+3	Inception	8.8	1892286	5516.632398156121	Emma Thomas	producer
+3	Inception	8.8	1892286	5516.632398156121	Leonardo DiCaprio	actor
+4	Fight Club	8.8	1724854	5028.513374029707	Ross Grayson Bell	producer
+4	Fight Club	8.8	1724854	5028.513374029707	Ceán Chaffin	producer
+4	Fight Club	8.8	1724854	5028.513374029707	Edward Norton	actor
+4	Fight Club	8.8	1724854	5028.513374029707	Jim Uhls	writer
+4	Fight Club	8.8	1724854	5028.513374029707	David Fincher	director
+4	Fight Club	8.8	1724854	5028.513374029707	Zach Grenier	actor
+4	Fight Club	8.8	1724854	5028.513374029707	Brad Pitt	actor
+4	Fight Club	8.8	1724854	5028.513374029707	Art Linson	producer
+4	Fight Club	8.8	1724854	5028.513374029707	Meat Loaf	actor
+4	Fight Club	8.8	1724854	5028.513374029707	Chuck Palahniuk	writer
+8	The Lord of the Rings: The Return of the King	8.9	1533149	4520.421875550732	J.R.R. Tolkien	writer
+8	The Lord of the Rings: The Return of the King	8.9	1533149	4520.421875550732	Orlando Bloom	actor
+8	The Lord of the Rings: The Return of the King	8.9	1533149	4520.421875550732	Elijah Wood	actor
+8	The Lord of the Rings: The Return of the King	8.9	1533149	4520.421875550732	Fran Walsh	writer
+8	The Lord of the Rings: The Return of the King	8.9	1533149	4520.421875550732	Viggo Mortensen	actor
+8	The Lord of the Rings: The Return of the King	8.9	1533149	4520.421875550732	Howard Shore	composer
+8	The Lord of the Rings: The Return of the King	8.9	1533149	4520.421875550732	Ian McKellen	actor
+8	The Lord of the Rings: The Return of the King	8.9	1533149	4520.421875550732	Peter Jackson	director
+8	The Lord of the Rings: The Return of the King	8.9	1533149	4520.421875550732	Philippa Boyens	writer
+8	The Lord of the Rings: The Return of the King	8.9	1533149	4520.421875550732	Barrie M. Osborne	producer
+9	The Godfather	9.2	1481702	4515.993328249837	Al Pacino	actor
+9	The Godfather	9.2	1481702	4515.993328249837	Mario Puzo	writer
+9	The Godfather	9.2	1481702	4515.993328249837	Gordon Willis	cinematographer
+9	The Godfather	9.2	1481702	4515.993328249837	James Caan	actor
+9	The Godfather	9.2	1481702	4515.993328249837	William Reynolds	editor
+9	The Godfather	9.2	1481702	4515.993328249837	Francis Ford Coppola	director
+9	The Godfather	9.2	1481702	4515.993328249837	Nino Rota	composer
+9	The Godfather	9.2	1481702	4515.993328249837	Diane Keaton	actress
+9	The Godfather	9.2	1481702	4515.993328249837	Al Ruddy	producer
+9	The Godfather	9.2	1481702	4515.993328249837	Marlon Brando	actor
+11	The Matrix	8.7	1553753	4478.224174192119	Carrie-Anne Moss	actress
+11	The Matrix	8.7	1553753	4478.224174192119	Laurence Fishburne	actor
+11	The Matrix	8.7	1553753	4478.224174192119	Bill Pope	cinematographer
+11	The Matrix	8.7	1553753	4478.224174192119	Keanu Reeves	actor
+11	The Matrix	8.7	1553753	4478.224174192119	Joel Silver	producer
+11	The Matrix	8.7	1553753	4478.224174192119	Don Davis	composer
+11	The Matrix	8.7	1553753	4478.224174192119	Zach Staenberg	editor
+11	The Matrix	8.7	1553753	4478.224174192119	Lana Wachowski	director
+11	The Matrix	8.7	1553753	4478.224174192119	Lilly Wachowski	director
+11	The Matrix	8.7	1553753	4478.224174192119	Hugo Weaving	actor
+16	Se7en	8.6	1326916	3780.4759475980163	Richard Francis-Bruce	editor
+16	Se7en	8.6	1326916	3780.4759475980163	Kevin Spacey	actor
+16	Se7en	8.6	1326916	3780.4759475980163	Phyllis Carlyle	producer
+16	Se7en	8.6	1326916	3780.4759475980163	Darius Khondji	cinematographer
+16	Se7en	8.6	1326916	3780.4759475980163	David Fincher	director
+16	Se7en	8.6	1326916	3780.4759475980163	Brad Pitt	actor
+16	Se7en	8.6	1326916	3780.4759475980163	Howard Shore	composer
+16	Se7en	8.6	1326916	3780.4759475980163	Arnold Kopelson	producer
+16	Se7en	8.6	1326916	3780.4759475980163	Andrew Kevin Walker	actor
+16	Se7en	8.6	1326916	3780.4759475980163	Morgan Freeman	actor
+18	Django Unchained	8.4	1248935	3475.5514318278956	Fred Raskin	editor
+18	Django Unchained	8.4	1248935	3475.5514318278956	Kerry Washington	actress
+18	Django Unchained	8.4	1248935	3475.5514318278956	Reginald Hudlin	producer
+18	Django Unchained	8.4	1248935	3475.5514318278956	Stacey Sher	producer
+18	Django Unchained	8.4	1248935	3475.5514318278956	Quentin Tarantino	director
+18	Django Unchained	8.4	1248935	3475.5514318278956	Christoph Waltz	actor
+18	Django Unchained	8.4	1248935	3475.5514318278956	Robert Richardson	cinematographer
+18	Django Unchained	8.4	1248935	3475.5514318278956	Jamie Foxx	actor
+18	Django Unchained	8.4	1248935	3475.5514318278956	Pilar Savone	producer
+18	Django Unchained	8.4	1248935	3475.5514318278956	Leonardo DiCaprio	actor
+19	The Silence of the Lambs	8.6	1169417	3331.7503453212025	Kenneth Utt	producer
+19	The Silence of the Lambs	8.6	1169417	3331.7503453212025	Ted Tally	writer
+19	The Silence of the Lambs	8.6	1169417	3331.7503453212025	Jodie Foster	actress
+19	The Silence of the Lambs	8.6	1169417	3331.7503453212025	Ron Bozman	producer
+19	The Silence of the Lambs	8.6	1169417	3331.7503453212025	Edward Saxon	producer
+19	The Silence of the Lambs	8.6	1169417	3331.7503453212025	Jonathan Demme	director
+19	The Silence of the Lambs	8.6	1169417	3331.7503453212025	Lawrence A. Bonney	actor
+19	The Silence of the Lambs	8.6	1169417	3331.7503453212025	Thomas Harris	writer
+19	The Silence of the Lambs	8.6	1169417	3331.7503453212025	Kasi Lemmons	actress
+19	The Silence of the Lambs	8.6	1169417	3331.7503453212025	Anthony Hopkins	actor
+20	Batman Begins	8.2	1224689	3326.9346227223464	Christopher Nolan	director
+20	Batman Begins	8.2	1224689	3326.9346227223464	Ken Watanabe	actor
+20	Batman Begins	8.2	1224689	3326.9346227223464	David S. Goyer	writer
+20	Batman Begins	8.2	1224689	3326.9346227223464	Charles Roven	producer
+20	Batman Begins	8.2	1224689	3326.9346227223464	Christian Bale	actor
+20	Batman Begins	8.2	1224689	3326.9346227223464	Larry Franco	producer
+20	Batman Begins	8.2	1224689	3326.9346227223464	Bob Kane	writer
+20	Batman Begins	8.2	1224689	3326.9346227223464	Lorne Orleans	producer
+20	Batman Begins	8.2	1224689	3326.9346227223464	Michael Caine	actor
+20	Batman Begins	8.2	1224689	3326.9346227223464	Liam Neeson	actor
