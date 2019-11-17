@@ -10,6 +10,8 @@ The database movie_db is already inside the folder for semplicity.
 
 Clone this repositoy. If on Linux run ./etl_bgc.sh
 
+Download and unzip the appropriate files into the code/movies_db folders.
+
 On windows run etl_bgc.bat
 
 The results will be stored on the output folder.
